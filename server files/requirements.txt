@@ -2,7 +2,7 @@ appdirs==1.4.0
 bleach==1.5.0
 click==6.7
 decorator==4.0.11
-html5lib==0.9999999
+html5lib==0.999999999
 ipython==5.1.0
 ipython-genutils==0.1.0
 Keras==1.2.1
